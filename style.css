@@ -1,0 +1,22 @@
+body {
+    font-size: 16px;
+
+}
+
+/* This is the style for the Header Block */
+/* ====================================== */
+
+#header {
+    padding: 50px 0;
+    background-color: #efefef;
+}
+.header-h1-colour {
+    color: #693;
+}
+
+/* This is the style for the Chess Set for the Blind */
+/* ====================================== */
+
+#chess {
+    padding-top: 50px;
+}
