@@ -1,22 +1,19 @@
 body {
-    font-size: 16px;
-
+    font-size: 1.6em;
 }
 
-/* This is the style for the Header Block */
-/* ====================================== */
-
 #header {
-    padding: 50px 0;
-    background-color: #efefef;
+    background-color: #fafafa;
 }
 .header-h1-colour {
     color: #693;
 }
 
-/* This is the style for the Chess Set for the Blind */
-/* ====================================== */
+.break {
+    padding-top: 10px;}
 
-#chess {
-    padding-top: 50px;
-}
+.big-break {
+    padding: 50px 0; }
+
+a, a:hover {color: #693;}
+a:active {color: #f90;}
