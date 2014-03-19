@@ -1,4 +1,4 @@
-Hello, I'm Duncan. I design things. http://dncnmckn.github.io
+Hello, I'm Duncan. I design things. 
 ==================
 
 
@@ -26,7 +26,15 @@ I am a member of a musical collective that has to design and build the musical i
 Contact. Best ways to get in touch with me.
 ----
 
- http://dribbble.com/dncnmckn
- http://github.com/dncnmckn
- http://linkedin.com/in/dncnmckn
- http://twitter.com/dncnmckn
+http://dribbble.com/dncnmckn
+ 
+http://github.com/dncnmckn
+ 
+http://linkedin.com/in/dncnmckn
+ 
+http://twitter.com/dncnmckn
+ 
+Website Link
+----
+ 
+http://dncnmckn.github.io
