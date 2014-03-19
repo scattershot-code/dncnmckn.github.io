@@ -4,13 +4,13 @@ Hello, I'm Duncan. I design things.
 
 I believe every good designer should be able to:
 
-Research. Observing blatant and latent user needs gives you the strongest foundation for innovation.
+* Research. Observing blatant and latent user needs gives you the strongest foundation for innovation.
 
-Collaborate. You can’t do everything on your own. Working as part of a team leads to better results.
+* Collaborate. You can’t do everything on your own. Working as part of a team leads to better results.
 
-Write. Recording your process and methodologies allows you to reflect and improve what you do.
+* Write. Recording your process and methodologies allows you to reflect and improve what you do.
 
-Teach. Show people what you do and how you do it. Spread your knowledge, skills and experience.
+* Teach. Show people what you do and how you do it. Spread your knowledge, skills and experience.
 
 Projects. Here's some things I've been up to.
 ----
