@@ -1,6 +1,6 @@
 # duncanmckean.com
 
-<p>Autodidact, creative, mildly apophenic English designer now relocated to the Netherlands. Fuelled by hot liquids and good music. Chaotic Good.</p>
+<p>Holistic thinking designer. Strategically minded and human-centered in approach. Fascinated by creative methodologies and design tools. Fuelled by hot liquids and good music. Chaotic Good.</p>
 
 <ul>
 <li>LinkedIn:   https://nl.linkedin.com/in/dncnmckn</li>
