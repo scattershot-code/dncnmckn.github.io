@@ -1,0 +1,23 @@
+/*
+dncnmckn.css
+
+This is the CSS file for duncanmckean.com with tweaks upon materialize CSS.
+*/
+
+p {
+    font-size: 1.2em;
+    font-weight: 300;
+}
+
+p.dmk-footer-text {
+    font-size: 1em;
+}
+
+p.dmk-contact-info {
+    font-size: 1em;
+}
+
+.dmk-padding {
+ padding: 2em 0 0 2em;   
+}
+    
