@@ -15,9 +15,21 @@ p.dmk-footer-text {
 
 p.dmk-contact-info {
     font-size: 1em;
+    font-weight: 400;
 }
 
 .dmk-padding {
  padding: 2em 0 0 2em;   
 }
-    
+
+/* sticky footer */
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
