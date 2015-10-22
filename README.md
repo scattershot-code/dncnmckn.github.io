@@ -1,6 +1,6 @@
-# Duncan McKean
+<img src="https://github.com/dncnmckn/dncnmckn.github.io/blob/master/images/summarycard.jpg" alt="Duncan McKean &bull; Human-centred Designer" width="50%" height="50%" />
 
-<p>Holistic thinking designer. Strategically minded and human-centered in approach. Fascinated by creative methodologies, open source ideas and design tools.</p>
+<p>Human-centred designer, holistic and strategic in approach. Fascinated by creativity, open source and design methods.</p>
 
 <ul>
 <li>LinkedIn:   https://nl.linkedin.com/in/dncnmckn</li>
