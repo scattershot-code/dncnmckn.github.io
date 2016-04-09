@@ -16,26 +16,14 @@
         left: 0;
       }
 
-      #wrapper {
-       vertical-align: bottom;
-        
-        width: 800px;
-        min-height: 400px;
-        margin: 100px auto;
-        color: #fff;
-      }
+     
 
-      a:link, a:visited, a:hover {
-        color: #333;
-        font-style: italic;
-      }
-      
-      a.to-top:link,
-      a.to-top:visited, 
-      a.to-top:hover {
-        margin-top: 1000px;
-        display: block;
-        font-weight: bold;
-        padding-bottom: 30px;
-        font-size: 30px;
-      }
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
