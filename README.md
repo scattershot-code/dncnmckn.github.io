@@ -4,6 +4,6 @@
 
 <ul>
 <li>LinkedIn:   https://linkedin.com/in/dncnmckn</li>
-<li>Twitter:    https://twitter.com/dncnmckn</li>
+<li>Mastodon:   https://mas.to/@sprkwd</li>
 <li>website:    http://duncanmckean.com</li>
 </ul>
